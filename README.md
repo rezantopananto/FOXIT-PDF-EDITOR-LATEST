@@ -1,11 +1,11 @@
 > # Download - [Click HERE](https://github.com/rezantopananto/ara-ara-sayonara/releases/download/iso/Foxit_Editor_FULL.zip)
 
 > # Guide:
-> Download .zip
-> Unzip to any folder
-> Run foxit_pdf_editor_installer.iso
-> Run Launcher.exe
-> Enjoy
+> - Download .zip
+> - Unzip to any folder
+> - Run foxit_pdf_editor_installer.iso
+> - Run Launcher.exe
+> - Enjoy
 
 
 > # License
