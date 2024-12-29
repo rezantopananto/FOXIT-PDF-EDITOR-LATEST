@@ -3,8 +3,7 @@
 > # Guide:
 > - Download .zip
 > - Unzip to any folder
-> - Run foxit_pdf_editor_installer.iso
-> - Run Launcher.exe
+> - Run .exe
 > - Enjoy
 
 
